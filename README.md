@@ -10,6 +10,8 @@
 
 算法baseline主要来自华为HEBO，针对比赛做了一些参数和代码的修改。另外官方提供的代码修改了一些结构方便线下debug。
 
+运行环境: win10 ,Python3.6,Pycharm20200101,git bash用于运行打包脚本。
+
 官方代码主要修改点：
 
 1、thpo/run_search.py函数，增加修改如下代码：
